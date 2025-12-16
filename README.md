@@ -1,0 +1,2 @@
+# bearware
+The bearware license
